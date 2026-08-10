@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/github/followers/JoseAlberto88?style=for-the-badge&color=7dcfff&labelColor=1a1b27">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoseAlberto88/JoseAlberto88/main/assets/profile.png" alt="José at his desk" width="320" style="border-radius:12px;">
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -110,6 +114,16 @@ A growing collection of reproducible notebooks demonstrating end-to-end ML workf
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JoseAlberto88&theme=tokyonight&margin-w=10&no-frame=true&column=4" />
 </p>
+
+---
+
+## 📈 Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoseAlberto88/JoseAlberto88/main/github-metrics.svg" alt="Metrics dashboard" width="100%">
+</p>
+
+> Auto-generated daily: activity, top languages, coding habits, and a full-year contribution calendar.
 
 ---
 
