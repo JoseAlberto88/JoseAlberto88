@@ -39,7 +39,11 @@ I build clean, reproducible machine-learning workflows and analytical solutions 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,pytorch,tensorflow,sklearn,pandas,numpy,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,postgres,pytorch,tensorflow,sklearn,git,github,vscode&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
 <details>
@@ -95,8 +99,8 @@ A growing collection of reproducible notebooks demonstrating end-to-end ML workf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseAlberto88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlberto88&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165">
+  <img src="https://github-stats-extended.vercel.app/api?username=JoseAlberto88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseAlberto88&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165">
 </p>
 
 <p align="center">
