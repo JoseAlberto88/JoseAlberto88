@@ -146,6 +146,11 @@ A growing collection of reproducible notebooks demonstrating end-to-end ML workf
 
 <p align="center">⭐ If you like my work, feel free to star my repositories!</p>
 
+<!-- ===================== MOE COUNTER ===================== -->
+<p align="center">
+  <img src="https://count.getloli.com/@JoseAlberto88?theme=booru-koe" alt="JoseAlberto88" />
+</p>
+
 <!-- ===================== FOOTER (animated wave) ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dcfff,50:3d2b5e,100:1a1b27&height=120&section=footer" width="100%">
