@@ -40,33 +40,6 @@ I build clean, reproducible machine-learning workflows and analytical solutions 
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,pytorch,tensorflow,sklearn,git,github,vscode&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</p>
-
-<details>
-<summary><b>📊 Data & ML libraries (click to expand)</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img src="https://img.shields.io/badge/SAS-1A73E8?style=for-the-badge&logo=sas&logoColor=white">
-  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-</p>
-</details>
-
----
-
 ## 💻 Software and Tools
 
 <table align="center">
@@ -76,34 +49,8 @@ I build clean, reproducible machine-learning workflows and analytical solutions 
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
-      <br>Scikit-Learn
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
+      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      <br>R
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -118,19 +65,110 @@ I build clean, reproducible machine-learning workflows and analytical solutions 
       <br>VS Code
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
       <br>Anaconda
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
-      <br>R
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="48" height="48" alt="Google Colab" />
+      <br>Google Colab
+    </td>
+    <td align="center" colspan="4">
+      <p align="center">
+        <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+        <img src="https://img.shields.io/badge/SAS-1A73E8?style=for-the-badge&logo=sas&logoColor=white">
+        <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 Data & ML Libraries
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48" height="48" alt="Scikit-Learn" />
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/pandas/E70488" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/keras/D00000" width="48" height="48" alt="Keras" />
+      <br>Keras
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white">
+</p>
+
+---
+
+## 🧠 AI Engineering — Currently Learning
+
+> Tools and libraries I'm picking up as I work through my project-based AI Engineering learning path (fine-tuning LLMs, RAG apps, and MLOps).
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" alt="Hugging Face" />
+      <br>Hugging Face
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
+      <br>LangChain
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="48" height="48" alt="Streamlit" />
+      <br>Streamlit
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="48" height="48" alt="GitHub Actions" />
+      <br>GitHub Actions
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chroma%20(Vector%20DB)-1C1C1C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge">
+</p>
 
 ---
 
