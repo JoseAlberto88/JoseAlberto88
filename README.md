@@ -67,6 +67,73 @@ I build clean, reproducible machine-learning workflows and analytical solutions 
 
 ---
 
+## 💻 Software and Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" />
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      <br>R
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📂 Featured Projects
 
 <table align="center">
